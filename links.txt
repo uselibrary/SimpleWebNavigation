@@ -1,0 +1,115 @@
+box
+论文搜索
+fas fa-book
+谷歌学术
+https://scholar.google.com
+Sci-Hub
+https://sci-hub.se
+Library Genesis
+https://libgen.rs
+endbox
+
+box
+邮箱
+fas fa-mail-bulk
+Outlook
+https://outlook.live.com
+QQ EX mail
+https://exmail.qq.com
+zoho
+https://mail.zoho.eu
+endbox
+
+box
+搜索引擎
+fab fa-searchengin
+谷歌
+https://www.google.com
+百度
+https://www.baidu.com
+DuckDuckGo
+https://duckduckgo.com
+必应
+https://www.bing.com
+endbox
+
+box
+资讯与社区
+far fa-newspaper
+IT之家
+https://www.ithome.com
+主机交流
+https://www.hostloc.com
+v2ex
+http://www.v2ex.com
+Deepin
+https://bbs.deepin.org
+endbox
+
+box
+网站
+fab fa-internet-explorer
+怕刺
+https://pa.ci
+endbox
+
+box
+程序
+fas fa-code
+GitHub
+https://github.com
+Raspberry Pi
+https://www.raspberrypi.org
+腾讯云
+https://cloud.tencent.com
+阿里云
+https://cn.aliyun.com
+DNSPod
+https://www.dnspod.cn
+endbox
+
+box
+娱乐影音
+far fa-play-circle
+哔哩哔哩
+http://www.bilibili.com
+煎蛋
+https://jandan.net
+摸鱼
+https://mo.fish
+今日热搜
+https://tophub.today
+Youtube
+https://www.youtube.com
+endbox
+
+box
+购物
+fas fa-shopping-cart
+淘宝
+https://taobao.com
+京东
+https://jd.com
+天猫
+https://www.tmall.com
+endbox
+
+box
+翻译
+fas fa-language
+谷歌翻译
+https://translate.google.com
+DeepL
+https://www.deepl.com/translator
+百度翻译
+https://fanyi.baidu.com
+endbox
+
+box
+实用工具
+fas fa-toolbox
+在线抠图
+https://www.gaoding.com/koutu
+图床
+https://mjj.today
+endbox
