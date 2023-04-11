@@ -4,7 +4,15 @@
 原作者`https://github.com/KrunkZhou/SimpleWebNavigation`，二次修改作者`https://github.com/hanumio/nav`，本程序基于二次修改版本。
 
 
+
+## 演示
+
+![demo](https://raw.githubusercontent.com/uselibrary/SimpleWebNavigation/main/demo.jpg)
+
+
+
 ## 使用方法
+
 ### 安装
 下载后上传到php空间。
 ### 修改标题、简介
