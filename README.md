@@ -7,6 +7,8 @@
 
 ## 演示
 
+演示站点 [https://nav.dataset.eu.org](https://nav.dataset.eu.org)
+
 ![demo](https://raw.githubusercontent.com/uselibrary/SimpleWebNavigation/main/demo.jpg)
 
 
@@ -84,3 +86,6 @@ https://www.bilibili.com/
 endbox
 ```
 
+### 背景图片
+
+背景图片放置于`img`文件夹中，名称为`bg.jpg`。CSS路径位于`css/style.css`中的`background-image: url('../img/bg.jpg');`处。
